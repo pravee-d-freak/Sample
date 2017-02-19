@@ -8,3 +8,5 @@ git status
 git add filename
 git commit -m 'any message'
 
+git push -u origin master
+
