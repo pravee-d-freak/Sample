@@ -1,0 +1,10 @@
+
+git config --global user.email "praveenmeesala.1996@gmail.com"
+git config --global user.name "pravee-d-freak"
+
+\
+
+git status
+git add filename
+git commit -m 'any message'
+
